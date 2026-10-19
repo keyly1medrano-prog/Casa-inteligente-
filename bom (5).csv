@@ -1,0 +1,11 @@
+﻿Nombre,Cantidad,Componente
+"U1",1," Sensor de temperatura [TMP36]"
+"U2",1," Arduino Uno R3"
+"DIST1",1," Sensor de distancia ultrasónico (4 pines)"
+"SERVO1",1,"Posicional Microservomotor"
+"U3",1,"Basado en PCF8574, 38 (0x26) LCD 16 x 2 (I2C)"
+"1",1," Placa de pruebas"
+"D1, D2",2,"Rojo LED"
+"R1, R4",2,"220 Ω Resistencia"
+"R2",1," Fotorresistencia"
+"R3",1,"10 kΩ Resistencia"
